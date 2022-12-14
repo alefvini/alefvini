@@ -2,8 +2,9 @@
 
 Bem-vindo ao meu GitHub 🖖🏻
 
-- 🌱 Atualmente estou estudando desenvolvimento Fullstack
+- 🌱 Atualmente estou aprendendo desenvolvimento Fullstack
 - 🚀 Estudante da B7Web
+- 💭 Eu quero ser a mudança que desejo ver no mundo usando programação
 
 <div align="center">
   <a href="https://github.com/alefvini">
@@ -25,7 +26,7 @@ Bem-vindo ao meu GitHub 🖖🏻
 <div>
 <a href="https://https://www.linkedin.com/in/alefvini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+   
+![snake_gif](https://github.com/alefvini/alefvini/blob/output/github-contribution-grid-snake.svg)
   
-  ##
-  
-  💭 Eu quero ser a mudança que desejo ver no mundo usando programação. 
+   
