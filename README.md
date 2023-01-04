@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub 🖖🏻
 
 <div align="center">
   <a href="https://github.com/alefvini">
-  <img height="180em" width="46%" src="https://tiny.one-readme-stats.vercel.app/api?username=alefvini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api?username=alefvini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefvini&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
