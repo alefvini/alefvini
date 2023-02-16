@@ -31,4 +31,3 @@ Bem-vindo ao meu GitHub 🖖🏻
 ![snake_gif](https://github.com/alefvini/alefvini/blob/output/github-contribution-grid-snake.svg)
   
   
-  
