@@ -5,7 +5,7 @@ Bem-vindo ao meu GitHub 🖖🏻
 - 🌱 Atualmente estou aprendendo desenvolvimento Fullstack
 - 🚀 Estudante da B7Web
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 💭 Eu quero ser a mudança que desejo ver no mundo usando programação
+- 💭 Eu busco ser a mudança que desejo ver no mundo usando programação
 
 <div align="center">
   <a href="https://github.com/alefvini">
