@@ -2,9 +2,8 @@
 
 Bem-vindo ao meu GitHub 🖖🏻
 
+- 🚀 Sou um desenvolvedor de software Front-End
 - 🌱 Atualmente estou estudando desenvolvimento Fullstack
-- 🚀 Estudante da B7Web
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 💭 Eu busco ser a mudança que desejo ver no mundo usando programação
 
 <div align="center">
